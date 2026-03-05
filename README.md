@@ -42,7 +42,7 @@ pip install matplotlib
 3. Run the program:
 
 ```bash
-python keyloz.py
+python3 keyloz.py
 ```
 
 ---
